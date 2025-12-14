@@ -23,7 +23,7 @@ Dokumentasi ini berisi konfigurasi lengkap jaringan dengan 7 subnet berbeda meng
 
 ## 📊 VLSM Table
 
-![VLSM Table](src/vlsm.png.png)
+![VLSM Table](src/vlsm.png)
 
 Tabel konfigurasi lengkap untuk semua subnet dalam jaringan.
 
