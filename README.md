@@ -24,8 +24,6 @@ Dokumentasi ini berisi konfigurasi lengkap jaringan dengan 7 subnet berbeda meng
 ## 📊 VLSM Table
 
 ![VLSM](src/vlsm.png)
-=======
-![VLSM Table](src/vlsm.png)
 
 Tabel konfigurasi lengkap untuk semua subnet dalam jaringan.
 
@@ -82,7 +80,7 @@ CIDR (Classless Inter-Domain Routing) digunakan untuk:
 
 ## 🌐 Topologi Jaringan
 
-![Topologi Jaringan](src/topologi.png)
+![Topologi Jaringan](src/toppo.png)
 
 Diagram topologi menunjukkan koneksi antar subnet dan routing dalam jaringan.
 
