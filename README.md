@@ -54,7 +54,7 @@ Tabel konfigurasi lengkap untuk semua subnet dalam jaringan.
 
 ## 🗂️ CIDR Configuration
 
-![CIDR Summary](src/cidr.png)
+![CIDR](src/cidr.png)
 
 Ringkasan konfigurasi CIDR untuk agregasi subnet berdasarkan lokasi.
 
